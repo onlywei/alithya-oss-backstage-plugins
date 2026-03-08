@@ -19,7 +19,7 @@
     "lint": "backstage-cli package lint"
   },
   "dependencies": {
-    "@backstage-community/plugin-tech-insights-maturity": "^0.2.2",
+    "@backstage-community/plugin-tech-insights-maturity": "^0.6.5",
     "@backstage/app-defaults": "catalog:",
     "@backstage/canon": "catalog:",
     "@backstage/catalog-model": "catalog:",

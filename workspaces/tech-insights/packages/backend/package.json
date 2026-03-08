@@ -22,8 +22,8 @@
   },
   "dependencies": {
     "@alithya-oss/backstage-plugin-tech-insights-backend-module-catalog-entities": "workspace:^",
-    "@backstage-community/plugin-tech-insights-backend": "^2.3.0",
-    "@backstage-community/plugin-tech-insights-backend-module-jsonfc": "^0.5.1",
+    "@backstage-community/plugin-tech-insights-backend": "^2.5.2",
+    "@backstage-community/plugin-tech-insights-backend-module-jsonfc": "^0.7.2",
     "@backstage/backend-defaults": "catalog:",
     "@backstage/config": "catalog:",
     "@backstage/plugin-app-backend": "catalog:",
